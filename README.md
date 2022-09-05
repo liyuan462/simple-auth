@@ -5,7 +5,7 @@ Simple Auth is a simple (and possibly not very secure) authentication and author
 ## To start using Simple Auth
 
 ### Prerequisites
-* An installation of Go 1.18 or later. For installation instructions, see[Installing go](https://go.dev/doc/install)
+* An installation of Go 1.18 or later. For installation instructions, see [Installing go](https://go.dev/doc/install)
 * A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
 * The curl tool. On Linux and Mac, this should already be installed. On Windows, it’s included on Windows 10 Insider build 17063 and later. For earlier Windows versions, you might need to install it. For more, see [Tar and Curl Come to Windows](https://docs.microsoft.com/en-us/virtualization/community/team-blog/2017/20171219-tar-and-curl-come-to-windows).
 
