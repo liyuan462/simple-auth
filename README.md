@@ -281,7 +281,7 @@ Response:
 }
 ```
 
-## TBD
+## Problems 
 * some operations should be privileged, only allow admin to call them. such as
   1. create user (by user or by admin. If by user, should do some verification)
   2. delete user
@@ -289,7 +289,7 @@ Response:
   4. delete role
   5. add role to user
   
-  this code is only for demonstration, so I don't do this.
+  this code is only for demonstration, so I didn't do this.
 
 * in a production environment, we'd better add a rate limiter for the APIs
 
