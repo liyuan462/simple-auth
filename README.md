@@ -89,6 +89,7 @@ var errMsgs = map[RespCode]string{
 
 ### Create user
 Path: /user/create
+
 Request:
 ```JSON
 {
@@ -110,6 +111,7 @@ Response:
 
 ### Delete user
 Path: /user/delete
+
 Request:
 ```JSON
 {
@@ -130,6 +132,7 @@ Response:
 
 ### Create role 
 Path: /role/create
+
 Request:
 ```JSON
 {
@@ -150,6 +153,7 @@ Response:
 
 ### Delete role
 Path: /role/delete
+
 Request:
 ```JSON
 {
@@ -170,6 +174,7 @@ Response:
 
 ### Add role to user
 Path: /user/role/add
+
 Request:
 ```JSON
 {
@@ -190,6 +195,7 @@ Response:
 
 ### Authenticate user
 Path: /user/authenticate
+
 Request:
 ```JSON
 {
@@ -211,6 +217,7 @@ Response:
 
 ### Invalidate token
 Path: /user/token/invalidate
+
 Request:
 ```JSON
 {
@@ -230,6 +237,7 @@ Response:
 
 ### Check user role
 Path: /user/role/check
+
 Request:
 ```JSON
 {
@@ -252,6 +260,7 @@ Response:
 
 ### List all roles of a user 
 Path: /user/role/list
+
 Request:
 ```JSON
 {
